@@ -1,19 +1,19 @@
 # LangChain Core
-langchain 
+langchain
 langchain-core
 
-# OpenAI integratiob
+# OpenAI Integration
 langchain-openai
 openai
 
 # Anthropic Integration
 langchain-anthropic
 
-# Google Gemini (PaML) Integration
+# Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
 
-# Hugging Fcae integration
+# Hugging Face Integration
 langchain-huggingface
 transformers
 huggingface-hub
